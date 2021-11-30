@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad
 - 👀 I’m interested in Python and Web development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently experimenting with Django
 
 <!---
 ahmdhjj92/ahmdhjj92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
